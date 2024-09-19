@@ -165,7 +165,7 @@
     <project.build.outputTimestamp>${git.commit.time}</project.build.outputTimestamp>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <prometheus.version>0.8.0</prometheus.version>
-    <protobuf.version>3.19.6</protobuf.version>
+    <protobuf.version>3.25.5</protobuf.version>
     <ratis.version>2.5.1</ratis.version>
     <rocksdb.version>7.0.3</rocksdb.version>
     <s3proxy.version>2.0.0</s3proxy.version>
